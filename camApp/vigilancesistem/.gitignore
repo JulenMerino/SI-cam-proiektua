@@ -1,0 +1,32 @@
+target/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.cmd
+.mvn/wrapper/maven-wrapper.dll
+.mvn/
+
+# IDEA files
+.idea/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
