@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>INDEX</title>
+</head>
+
+<body>
+	<ul>
+		<li class="user">
+			<%= user.name || user.username || user.email %>
+		</li>
+		<li>
+			<form action="/logout" method="post">
+				<button class="logout" type="submit">Saioa itxi</button>
+			</form>
+		</li>
+	</ul>
+	</nav>
+</body>
+
+</html>
