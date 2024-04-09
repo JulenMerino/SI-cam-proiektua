@@ -1,0 +1,3 @@
+2 erlazio berri bisitari eta lokala
+zelaia implementatu
+Worbech-en kompondu eta datuak sartu.
